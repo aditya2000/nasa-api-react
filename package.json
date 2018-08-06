@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.4.3",
+    "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-background-image-loader": "0.0.5",
     "react-dom": "^16.4.2",
