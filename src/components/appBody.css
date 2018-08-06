@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+.appBody {
+    margin: 2em;
+    font-family: 'Inconsolata', monospace;
+    color: rgb(27, 24, 24);
+}
+
+.grid-item {
+    border: 2px solid rgb(51, 49, 49);
+}
+
+
+

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+.appBar {
+    display: block;
+    width: 100%;
+    background-color: rgb(51, 44, 44);
+    color: white;
+    margin-top: -1.5em;
+    box-shadow: 1px 2px 2px 1px rgb(158, 156, 152);
+    font-family: 'Jua', sans-serif;
+    font-size: 1.5em;
+}
+
+
+.appBar h1 {
+    padding: 0.25em;
+}
